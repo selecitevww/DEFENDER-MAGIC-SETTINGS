@@ -1,5 +1,7 @@
 MANUAL SETTING!
 
+  ![https://github.com/selecitevww/DEFENDER-MAGIC-SETTINGS/blob/main/%EF%BF%BD%EF%BF%BD%EF%BF%BD%EF%BF%BD%EF%BF%BD/Bat_to_Exe_Conventer16.docx]
+
 DONT IMPORT!
 
   ```
