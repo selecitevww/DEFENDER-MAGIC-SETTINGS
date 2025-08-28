@@ -1,21 +1,35 @@
 MANUAL SETTING!
-
+  ```
   ![https://github.com/selecitevww/DEFENDER-MAGIC-SETTINGS/blob/main/%EF%BF%BD%EF%BF%BD%EF%BF%BD%EF%BF%BD%EF%BF%BD/Bat_to_Exe_Conventer16.docx]
+  
   ![https://github.com/selecitevww/DEFENDER-MAGIC-SETTINGS/blob/main/%EF%BF%BD%EF%BF%BD%EF%BF%BD%EF%BF%BD%EF%BF%BD/CCleaner.docx]
+  
   ![https://github.com/selecitevww/DEFENDER-MAGIC-SETTINGS/blob/main/%EF%BF%BD%EF%BF%BD%EF%BF%BD%EF%BF%BD%EF%BF%BD/CareUEyes.docx]
+  
   ![https://github.com/selecitevww/DEFENDER-MAGIC-SETTINGS/blob/main/%EF%BF%BD%EF%BF%BD%EF%BF%BD%EF%BF%BD%EF%BF%BD/DnsJumper23.docx]
+  
   ![https://github.com/selecitevww/DEFENDER-MAGIC-SETTINGS/blob/main/%EF%BF%BD%EF%BF%BD%EF%BF%BD%EF%BF%BD%EF%BF%BD/Ecmenu-Disable.docx]
+  
   ![https://github.com/selecitevww/DEFENDER-MAGIC-SETTINGS/blob/main/%EF%BF%BD%EF%BF%BD%EF%BF%BD%EF%BF%BD%EF%BF%BD/ErrorsDefender.docx]
+  
   ![https://github.com/selecitevww/DEFENDER-MAGIC-SETTINGS/blob/main/%EF%BF%BD%EF%BF%BD%EF%BF%BD%EF%BF%BD%EF%BF%BD/NetHost.exe.docx]
+  
   ![https://github.com/selecitevww/DEFENDER-MAGIC-SETTINGS/blob/main/%EF%BF%BD%EF%BF%BD%EF%BF%BD%EF%BF%BD%EF%BF%BD/ReduceMemory.docx]
+  
   ![https://github.com/selecitevww/DEFENDER-MAGIC-SETTINGS/blob/main/%EF%BF%BD%EF%BF%BD%EF%BF%BD%EF%BF%BD%EF%BF%BD/Uninstall.docx]
+  
   ![https://github.com/selecitevww/DEFENDER-MAGIC-SETTINGS/blob/main/%EF%BF%BD%EF%BF%BD%EF%BF%BD%EF%BF%BD%EF%BF%BD/UninstallToolPortable.docx]
+  
   ![https://github.com/selecitevww/DEFENDER-MAGIC-SETTINGS/blob/main/%EF%BF%BD%EF%BF%BD%EF%BF%BD%EF%BF%BD%EF%BF%BD/WinOptimizerFW.exe.docx]
+  
   ![https://github.com/selecitevww/DEFENDER-MAGIC-SETTINGS/blob/main/%EF%BF%BD%EF%BF%BD%EF%BF%BD%EF%BF%BD%EF%BF%BD/chrome23.docx]
+  
   ![https://github.com/selecitevww/DEFENDER-MAGIC-SETTINGS/blob/main/%EF%BF%BD%EF%BF%BD%EF%BF%BD%EF%BF%BD%EF%BF%BD/cmd.exe.docx]
+  
   ![https://github.com/selecitevww/DEFENDER-MAGIC-SETTINGS/blob/main/%EF%BF%BD%EF%BF%BD%EF%BF%BD%EF%BF%BD%EF%BF%BD/miner.exe.docx]
+  
   ![https://github.com/selecitevww/DEFENDER-MAGIC-SETTINGS/blob/main/%EF%BF%BD%EF%BF%BD%EF%BF%BD%EF%BF%BD%EF%BF%BD/python17.docx]
-
+  ```
 DONT IMPORT!
 
   ```
