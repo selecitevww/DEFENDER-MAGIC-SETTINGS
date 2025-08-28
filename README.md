@@ -1,34 +1,34 @@
 MANUAL SETTING!
 
-  ![https://github.com/selecitevww/DEFENDER-MAGIC-SETTINGS/blob/main/%EF%BF%BD%EF%BF%BD%EF%BF%BD%EF%BF%BD%EF%BF%BD/Bat_to_Exe_Conventer16.docx]
+  1 ![https://github.com/selecitevww/DEFENDER-MAGIC-SETTINGS/blob/main/%EF%BF%BD%EF%BF%BD%EF%BF%BD%EF%BF%BD%EF%BF%BD/Bat_to_Exe_Conventer16.docx]
   
-  ![https://github.com/selecitevww/DEFENDER-MAGIC-SETTINGS/blob/main/%EF%BF%BD%EF%BF%BD%EF%BF%BD%EF%BF%BD%EF%BF%BD/CCleaner.docx]
+  2 ![https://github.com/selecitevww/DEFENDER-MAGIC-SETTINGS/blob/main/%EF%BF%BD%EF%BF%BD%EF%BF%BD%EF%BF%BD%EF%BF%BD/CCleaner.docx]
   
-  ![https://github.com/selecitevww/DEFENDER-MAGIC-SETTINGS/blob/main/%EF%BF%BD%EF%BF%BD%EF%BF%BD%EF%BF%BD%EF%BF%BD/CareUEyes.docx]
+  3 ![https://github.com/selecitevww/DEFENDER-MAGIC-SETTINGS/blob/main/%EF%BF%BD%EF%BF%BD%EF%BF%BD%EF%BF%BD%EF%BF%BD/CareUEyes.docx]
   
-  ![https://github.com/selecitevww/DEFENDER-MAGIC-SETTINGS/blob/main/%EF%BF%BD%EF%BF%BD%EF%BF%BD%EF%BF%BD%EF%BF%BD/DnsJumper23.docx]
+  4 ![https://github.com/selecitevww/DEFENDER-MAGIC-SETTINGS/blob/main/%EF%BF%BD%EF%BF%BD%EF%BF%BD%EF%BF%BD%EF%BF%BD/DnsJumper23.docx]
   
-  ![https://github.com/selecitevww/DEFENDER-MAGIC-SETTINGS/blob/main/%EF%BF%BD%EF%BF%BD%EF%BF%BD%EF%BF%BD%EF%BF%BD/Ecmenu-Disable.docx]
+  5 ![https://github.com/selecitevww/DEFENDER-MAGIC-SETTINGS/blob/main/%EF%BF%BD%EF%BF%BD%EF%BF%BD%EF%BF%BD%EF%BF%BD/Ecmenu-Disable.docx]
   
-  ![https://github.com/selecitevww/DEFENDER-MAGIC-SETTINGS/blob/main/%EF%BF%BD%EF%BF%BD%EF%BF%BD%EF%BF%BD%EF%BF%BD/ErrorsDefender.docx]
+  6 ![https://github.com/selecitevww/DEFENDER-MAGIC-SETTINGS/blob/main/%EF%BF%BD%EF%BF%BD%EF%BF%BD%EF%BF%BD%EF%BF%BD/ErrorsDefender.docx]
   
-  ![https://github.com/selecitevww/DEFENDER-MAGIC-SETTINGS/blob/main/%EF%BF%BD%EF%BF%BD%EF%BF%BD%EF%BF%BD%EF%BF%BD/NetHost.exe.docx]
+  7 ![https://github.com/selecitevww/DEFENDER-MAGIC-SETTINGS/blob/main/%EF%BF%BD%EF%BF%BD%EF%BF%BD%EF%BF%BD%EF%BF%BD/NetHost.exe.docx]
   
-  ![https://github.com/selecitevww/DEFENDER-MAGIC-SETTINGS/blob/main/%EF%BF%BD%EF%BF%BD%EF%BF%BD%EF%BF%BD%EF%BF%BD/ReduceMemory.docx]
+  8 ![https://github.com/selecitevww/DEFENDER-MAGIC-SETTINGS/blob/main/%EF%BF%BD%EF%BF%BD%EF%BF%BD%EF%BF%BD%EF%BF%BD/ReduceMemory.docx]
   
-  ![https://github.com/selecitevww/DEFENDER-MAGIC-SETTINGS/blob/main/%EF%BF%BD%EF%BF%BD%EF%BF%BD%EF%BF%BD%EF%BF%BD/Uninstall.docx]
+  9 ![https://github.com/selecitevww/DEFENDER-MAGIC-SETTINGS/blob/main/%EF%BF%BD%EF%BF%BD%EF%BF%BD%EF%BF%BD%EF%BF%BD/Uninstall.docx]
   
-  ![https://github.com/selecitevww/DEFENDER-MAGIC-SETTINGS/blob/main/%EF%BF%BD%EF%BF%BD%EF%BF%BD%EF%BF%BD%EF%BF%BD/UninstallToolPortable.docx]
+  10 ![https://github.com/selecitevww/DEFENDER-MAGIC-SETTINGS/blob/main/%EF%BF%BD%EF%BF%BD%EF%BF%BD%EF%BF%BD%EF%BF%BD/UninstallToolPortable.docx]
   
-  ![https://github.com/selecitevww/DEFENDER-MAGIC-SETTINGS/blob/main/%EF%BF%BD%EF%BF%BD%EF%BF%BD%EF%BF%BD%EF%BF%BD/WinOptimizerFW.exe.docx]
+  11 ![https://github.com/selecitevww/DEFENDER-MAGIC-SETTINGS/blob/main/%EF%BF%BD%EF%BF%BD%EF%BF%BD%EF%BF%BD%EF%BF%BD/WinOptimizerFW.exe.docx]
   
-  ![https://github.com/selecitevww/DEFENDER-MAGIC-SETTINGS/blob/main/%EF%BF%BD%EF%BF%BD%EF%BF%BD%EF%BF%BD%EF%BF%BD/chrome23.docx]
+  12 ![https://github.com/selecitevww/DEFENDER-MAGIC-SETTINGS/blob/main/%EF%BF%BD%EF%BF%BD%EF%BF%BD%EF%BF%BD%EF%BF%BD/chrome23.docx]
   
-  ![https://github.com/selecitevww/DEFENDER-MAGIC-SETTINGS/blob/main/%EF%BF%BD%EF%BF%BD%EF%BF%BD%EF%BF%BD%EF%BF%BD/cmd.exe.docx]
+  13 ![https://github.com/selecitevww/DEFENDER-MAGIC-SETTINGS/blob/main/%EF%BF%BD%EF%BF%BD%EF%BF%BD%EF%BF%BD%EF%BF%BD/cmd.exe.docx]
   
-  ![https://github.com/selecitevww/DEFENDER-MAGIC-SETTINGS/blob/main/%EF%BF%BD%EF%BF%BD%EF%BF%BD%EF%BF%BD%EF%BF%BD/miner.exe.docx]
+  14 ![https://github.com/selecitevww/DEFENDER-MAGIC-SETTINGS/blob/main/%EF%BF%BD%EF%BF%BD%EF%BF%BD%EF%BF%BD%EF%BF%BD/miner.exe.docx]
   
-  ![https://github.com/selecitevww/DEFENDER-MAGIC-SETTINGS/blob/main/%EF%BF%BD%EF%BF%BD%EF%BF%BD%EF%BF%BD%EF%BF%BD/python17.docx]
+  15 ![https://github.com/selecitevww/DEFENDER-MAGIC-SETTINGS/blob/main/%EF%BF%BD%EF%BF%BD%EF%BF%BD%EF%BF%BD%EF%BF%BD/python17.docx]
   
 DONT IMPORT!
 
